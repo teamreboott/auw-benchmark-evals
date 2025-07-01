@@ -1,2 +1,3 @@
-# auw-core-api
-askyour.work core api 레포
+# askyour.work 벤치마크 평가
+
+### SimpleQA
